@@ -44,7 +44,7 @@ html,body,#app{
   height:100%;
 }
 .resumeEditor {
-    background: url(../../0214/img/IMG_20190524_175542.jpg) #fff no-repeat center bottom / auto auto;
+    background: url(../../static/img/IMG_20190524_175542.jpg) #fff no-repeat center bottom / auto auto;
 }
 
 ::-webkit-scrollbar {
